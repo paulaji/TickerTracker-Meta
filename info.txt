@@ -1,0 +1,1 @@
+pip install flask pandas yfinance // to install flask for backend, pandas and yfinance (Yahoo Finance) for the API
